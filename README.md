@@ -1,1 +1,9 @@
-# https_server_with_selfsignd_key
+Usage :
+
+Run server :
+node server.js
+
+Browser :
+https://localhost:3443
+
+
